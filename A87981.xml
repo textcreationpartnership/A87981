@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Kings Majesties court, of the Kings comming towards London, and was yesterday at Sion House. His Majesties speech to the Duke of York there. The resolutions of his Excellency Sir Thomas Fairfax and the Councell of Warre concerning the Kings Majesty. And His Excellencies message to the officers and souldiers in the north, sent by Major Generall Lambert, and by him delivered at a generall randezvouse.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87981</idno>
+            <idno type="STC">Wing L1528</idno>
+            <idno type="STC">Thomason E404_16</idno>
+            <idno type="STC">ESTC R15144</idno>
+            <idno type="EEBO-CITATION">99859809</idno>
+            <idno type="PROQUEST">99859809</idno>
+            <idno type="VID">111908</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87981)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111908)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E404[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Kings Majesties court, of the Kings comming towards London, and was yesterday at Sion House. His Majesties speech to the Duke of York there. The resolutions of his Excellency Sir Thomas Fairfax and the Councell of Warre concerning the Kings Majesty. And His Excellencies message to the officers and souldiers in the north, sent by Major Generall Lambert, and by him delivered at a generall randezvouse.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Army. Council.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:111908:1"/>
+            <p>
+               <figure>
+                  <figDesc>a cavalier armed with musket and rapier stands over a lion outside a town</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:111908:1" rendition="simple:additions"/>
+            <p>A LETTER FROM THE KINGS MAJESTIES COURT, OF THE KINGS Comming towards LONDON, and was yeſterday at SION HOUSE.</p>
+            <p>
+               <hi>His Majeſties ſpeech to the Duke of</hi> York <hi>there.</hi>
+            </p>
+            <p>The Reſolutions of his Excellency Sir <hi>THOMAS FAIRFAX And the Councell of Warre concerning the Kings Majeſty.</hi>
+            </p>
+            <p>AND His Excellencies MESSAGE to the Officers and Souldiers in the North, ſent by Major Generall <hi>Lambert,</hi> and by him delivered at a Generall Randezvouſe.</p>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:111908:2"/>
+            <pb n="1" facs="tcp:111908:2"/>
+            <head>A LETTER FROM THE KINGS MAJESTIES COURT, Of the Kings comming toward <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and was yeſterday at <hi>Sion houſe.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>I Have received your Packet, with the <hi>Or<g ref="char:EOLhyphen"/>ders</hi> of the <hi>Committee</hi> and the <hi>Houſe,</hi> what neceſſity of Moneyes is here, you have I doubt not ſufficiently been advertiſed from Mr. <hi>Creſſet;</hi> I ſuppoſe that your Honour cannot but think that it is now full time that his Majeſty have a new ſupply of Cloathes, and ſome Jewels, and other Ornaments for His Royall perſon.</p>
+            <p>Alſo for a further ſupply of Pewter, and
+<pb n="2" facs="tcp:111908:3"/>Pans, and Kettles, and divers other neceſſa<g ref="char:EOLhyphen"/>ries for the Kitchin, of ſilver, for his Maje<g ref="char:EOLhyphen"/>ſties uſes, and Linnen, and other neceſſaries, which are wanting to accommodate his Ma<g ref="char:EOLhyphen"/>jeſty, which I doubt not but there will be a large ſupply of.</p>
+            <p>The Lieutenant Generell <hi>Crumwels</hi> Regi<g ref="char:EOLhyphen"/>ment is now ſet to guard his Majeſty, which the King doth well approve on.</p>
+            <p>His Majeſty hath ſeverall of his Chaplains come to him, as Dr. <hi>Hammon,</hi> Dr. <hi>Holſworth,</hi> Dr. <hi>Goffe,</hi> and others, yeſterday according to the Court cuſtome, the Book of Com<g ref="char:EOLhyphen"/>mon-prayer was uſed at <hi>Oatelands,</hi> and his Majeſty had a Sermon preached in the fore<g ref="char:EOLhyphen"/>noone, and Evening prayer in the After<g ref="char:EOLhyphen"/>noone.</p>
+            <p>This morning his Majeſty riſe very early, and called for the Commiſſaries and the Of<g ref="char:EOLhyphen"/>ficers of the Guards, to appoint him ſome Horſe to attend him to <hi>Sion-Houſe</hi> (which is the way to <hi>London,</hi> where his Highneſſe the Duke of <hi>York</hi> is, with his Brother and Siſter, attended by the Earle of <hi>Northumber<g ref="char:EOLhyphen"/>land,</hi>) whither his Majeſty told them he was reſolved ſpeedily to goe.</p>
+            <pb n="3" facs="tcp:111908:3"/>
+            <p>The Commiſſioners made all poſſible ſpeed to get them ready, and a Troope of horſe were, preſently appointed to attend his Majeſty, and about ſeven of the clock in the morning all were made ready, and the Offi<g ref="char:EOLhyphen"/>cers and Souldiers mounted, to attend his Majeſty, and at that time this morning his Majeſty took Horſe.</p>
+            <p>His Majeſty had Major <hi>Titus</hi> his Querry rid bare before him, and the Lord <hi>Mounta<g ref="char:EOLhyphen"/>gue,</hi> Sir <hi>James Harrington,</hi> and the reſt of the Commiſſioners rid with his Majeſty, with divers Gentlemen of thoſe appointed by the Parliament to wait upon his Majeſty. And one Troop of Lieutenant Generall <hi>Crumwels</hi> Regiment of Horſe rid a diſtance off, and in this poſture his Majeſty paſſed this morning about half an houre paſt ſeven a clock from <hi>Oatelands</hi> towards <hi>LONDON.</hi>
+            </p>
+            <p>A little after eight a clock this day (in the morning) his Majeſty came hither, with the Commiſſioners and Guards, and rejoyced much to ſee his Children, giving the Earle of <hi>Northumberland</hi> thanks for his great care of them.</p>
+            <p>Many things paſſed between the <hi>King</hi> and
+<pb n="4" facs="tcp:111908:4"/>the Duke of <hi>York,</hi> as to inquire into his and his Brother and Siſters health, and content, and the like, in all which his Majeſty recei<g ref="char:EOLhyphen"/>ved much ſatisfaction.</p>
+            <p>The Commiſſioners ſent into the Coun<g ref="char:EOLhyphen"/>try Towns therabouts, to fetch in proviſions for the <hi>Kings</hi> dinner, which was brought in preſently. And his Majeſty dined here this day with his Children, which hath much pleaſed the Country herabouts, that his Ma<g ref="char:EOLhyphen"/>jeſty is come ſo neere his Parliament.</p>
+            <p>I ſuppoſe that his Majeſty will return back again to <hi>Oatelands</hi> to night, for here is no pro<g ref="char:EOLhyphen"/>viſion for ſtay here, and beſides, we are ve<g ref="char:EOLhyphen"/>ry ſenſible of what danger it will be to the <hi>Kings</hi> perſon to draw any neerer to <hi>London.</hi>
+            </p>
+            <p>When thoſe things propounded by the Army, and determined by the Parliament, and their Concluſions preſented to his Ma<g ref="char:EOLhyphen"/>jeſty for the Royall aſſent, his <hi>Majeſty</hi> will come to <hi>London,</hi> to ſit with the Parliament by free conſent of all ſides, which (in regard of the long time it will take up) it is deſired that the Parliament-Houſes will make no delay therein, but come to a concluſion, what it is that they will preſent to his <hi>Majeſty,</hi> as is de<g ref="char:EOLhyphen"/>ſired
+<pb n="5" facs="tcp:111908:4"/>by Sir <hi>Thomas Fairſax,</hi> and the Army.</p>
+            <p>Some things are reſolved upon by the Ge<g ref="char:EOLhyphen"/>nerall and the Councell of his Army, in re<g ref="char:EOLhyphen"/>ference to the <hi>King,</hi> as his <hi>Majeſty</hi> is advertiſed by thoſe ſent from his <hi>Majeſty</hi> to the Army, as to the injoyment of his Rights, the conti<g ref="char:EOLhyphen"/>nuance of Monarchy, the company of his Conſort, and Children, and other things much ſatisfying his <hi>Majeſty,</hi> which is paſt the account at preſent, From</p>
+            <closer>
+               <signed>Your Lordſhips humble Servant.</signed>
+               <dateline>
+                  <hi>Dat. SYON HOVSE,</hi> 
+                  <date>
+                     <hi>Auguſt</hi> 23. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="message">
+            <head>A Meſſage from his Excellency Sir <hi>Thomas Fairfax,</hi> delivered by Major Generall <hi>Lambert,</hi> to the Officers and Souldiers in the North.</head>
+            <opener>
+               <salute>Gentlemen and fellow-Souldiers,</salute>
+            </opener>
+            <p>
+               <hi>HIs Excellency Sir</hi> Thomas Fairfax <hi>hath commanded me to repaire to theſe parts, and
+<pb n="6" facs="tcp:111908:5"/>take upon mee the charge and conduct of the Forces of his Aſſotiation.</hi>
+            </p>
+            <p>
+               <hi>His Excellency is very ſenſible of your love, and reſpects to him, &amp; hath commanded me to aſſure you of the like from him to you.</hi>
+            </p>
+            <p>
+               <hi>And that however the proceedings of the Army have bin obſtructed (by reaſons of the late differ<g ref="char:EOLhyphen"/>ence,) not unknowne to you, ſo that he could not (as yet) procure a ſettlement of pay for you, yet His Excellency hath thought of you, and is reſolved to take care for you equally with his own Army.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Sent from his Excellency Sir</hi> Thomas Fairefax <hi>by</hi> M.G. LAMBERT.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
